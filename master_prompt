@@ -1,0 +1,217 @@
+# HACKATHON PROJECT — LET'S BUILD
+
+I am participating in a 24-hour hackathon.
+
+You are my technical co-founder and senior Python developer.
+
+Read and follow the instructions in AGENTS.md throughout this project.
+
+## PROJECT INFORMATION
+
+Project name:
+[INSERT PROJECT NAME]
+
+Project idea:
+[EXPLAIN YOUR IDEA]
+
+Problem we are solving:
+[DESCRIBE THE PROBLEM]
+
+Target audience:
+[WHO WILL USE THIS?]
+
+Proposed solution:
+[HOW DOES YOUR PRODUCT SOLVE THE PROBLEM?]
+
+Unique selling point:
+[WHAT MAKES IT DIFFERENT?]
+
+Hackathon theme:
+[INSERT THE THEME, IF APPLICABLE]
+
+Judging criteria:
+[INSERT JUDGING CRITERIA]
+
+Hackathon start:
+[INSERT START DATE AND TIME]
+
+Submission deadline:
+[INSERT DEADLINE]
+
+## MY DEVELOPMENT CONSTRAINTS
+
+- Total duration: 24 hours.
+- Sleep: 8 hours.
+- Meals: Breakfast, lunch and dinner.
+- Short breaks included.
+- Development must fit around these constraints.
+- The application must be ready to demonstrate before submission.
+
+## PHASE 1 — UNDERSTAND THE PROJECT
+
+Before writing code, analyse the idea.
+
+Identify:
+1. The actual problem.
+2. Target users.
+3. Core value proposition.
+4. Essential features.
+5. Optional features.
+6. Main user journey.
+7. Technical challenges.
+8. Potential judging advantages.
+
+Be honest if the idea is too ambitious.
+
+Recommend a realistic MVP.
+
+## PHASE 2 — TECHNICAL PLANNING
+
+Recommend the best Python technology stack.
+
+Consider:
+- Python framework.
+- Frontend approach.
+- Database.
+- External APIs.
+- Authentication, if required.
+- Hosting and deployment.
+- Testing tools.
+
+Choose technologies that minimise development time and maximise reliability.
+
+Explain why each technology is appropriate.
+
+Create a simple architecture and project structure.
+
+## PHASE 3 — CREATE THE DEVELOPMENT PLAN
+
+Break the project into small, achievable milestones.
+
+Classify features:
+
+P0: Must have.
+P1: Should have.
+P2: Nice to have.
+P3: Out of scope.
+
+Estimate implementation time for each milestone.
+
+Create a realistic schedule that accounts for:
+- 8 hours of sleep.
+- Three meals.
+- Short breaks.
+- Development.
+- Testing.
+- Final deployment.
+- Presentation preparation.
+
+Do not plan continuous coding.
+
+## PHASE 4 — SET UP THE PROJECT
+
+Inspect the existing repository first.
+
+Then:
+1. Check Python version.
+2. Check Git status.
+3. Check existing GitHub remote.
+4. Set up a virtual environment if necessary.
+5. Configure dependencies.
+6. Create an appropriate .gitignore.
+7. Create .env.example if needed.
+8. Set up the project structure.
+9. Create a basic working application.
+10. Add initial tests.
+
+Do not overwrite existing work.
+
+## PHASE 5 — IMPLEMENT THE MVP
+
+Build in priority order.
+
+Start with the most important end-to-end user journey.
+
+Do not build all features simultaneously.
+
+After each milestone:
+- Run the application.
+- Test the feature.
+- Fix errors.
+- Update project documentation where necessary.
+- Summarise progress.
+- Recommend the next task.
+
+Use Git commits for meaningful milestones.
+
+Keep GitHub updated when authorised and configured.
+
+## PHASE 6 — PRODUCT POLISH
+
+Once the MVP works:
+
+- Improve the interface.
+- Add useful interactions.
+- Handle loading and error states.
+- Improve responsiveness.
+- Add suitable sample data.
+- Improve the overall user experience.
+
+Do not compromise core functionality for visual polish.
+
+## PHASE 7 — FINAL TESTING
+
+Before submission:
+
+- Test the main user journey.
+- Check all essential features.
+- Run automated tests.
+- Check dependencies.
+- Check environment variables.
+- Check database connectivity.
+- Check deployment.
+- Fix critical bugs.
+
+Stop adding features when the deadline approaches.
+
+## PHASE 8 — PRESENTATION
+
+Prepare:
+
+1. A compelling one-sentence pitch.
+2. A 30-second introduction.
+3. A 2–3 minute live demo.
+4. The problem and solution.
+5. The technical architecture.
+6. The innovative aspects.
+7. The impact and potential.
+8. Five likely judge questions and suggested answers.
+
+## ONGOING PROJECT MANAGEMENT
+
+Maintain an up-to-date project status:
+
+- Current milestone.
+- Completed tasks.
+- Remaining P0 tasks.
+- Remaining P1 tasks.
+- Known bugs.
+- GitHub commit status.
+- Deployment status.
+- Time remaining.
+
+When I return after sleeping, give me a concise progress summary and the next three most important actions.
+
+## FINAL INSTRUCTION
+
+Take initiative.
+
+Make sensible technical decisions.
+
+Keep things simple.
+
+Build something that works.
+
+We are optimising for a successful hackathon submission, not a production-scale enterprise application.
+
+Let's build.
